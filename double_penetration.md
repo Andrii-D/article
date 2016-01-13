@@ -20,7 +20,7 @@ First of all we decided to organize and standardize our development environment 
 
 We spent a lot of time researching the best practices and talking to other teams to understand what is  
 the most efficient way to organize sharable development environments especially when your product decoupled to many microservices.  
-*DESCLIMER:  Yes, we are the big fans of microservices and Docker technology.*
+*DISCLIMER:  Yes, we are the big fans of microservices and Docker technology.*
 
 So we ended up with two main technologies: __Vagrant__ and __Docker__.  
 You can read about all aspects and differences from creators of these services [here on StackOverflow](http://stackoverflow.com/questions/16647069/should-i-use-vagrant-or-docker-for-creating-an-isolated-environment).  
@@ -434,7 +434,7 @@ You can use three different commands to stop working with your VM:
 
 ##Additional information
 ###Creating local database in container
-####Preperation
+####Preparation
 We assume that you use Docker 1.9 and Docker-Compose 1.5.1 or later. 
 
 It was a mess with volumes in Docker before ver. 1.9. And now Docker introduced __Volume__!  
