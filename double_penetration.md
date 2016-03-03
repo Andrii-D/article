@@ -10,7 +10,7 @@
 
 
 ##Inroduction
-Hello nerds, my name is Andrii Dvoiak and I'm a full stack web developer at Ukrainian startup called [Preply.com](http://preply.com).  
+Hello nerds, my name is Andrii Dvoiak and I'm a full stack web developer at Ukrainian startup called [Preply.com](http://preply.com/en/).  
 Preply - is a marketplace for tutoring. The platform where you can easily find a personal professional tutor  
 based on your location and needs. We have more then 15 thousands tutors of 40 different subjects.  
 
